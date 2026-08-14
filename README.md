@@ -1,4 +1,4 @@
-# ml_analysis.py
+Healthcare-ml-analysis
 ML analysis for Case Studies in Data Science Individual Task 1 - Decision Tree vs Neural Network classifiers on two healthcare datasets (diabetes, heart failure)
 # Healthcare ML Analysis — Individual Task 1, Part 1.3
 
